@@ -1,4 +1,4 @@
-app = 'fly-tailscale-exit'
+app = 'tailscale-exit-fly'
 primary_region = 'fra'
 
 [[restart]]
