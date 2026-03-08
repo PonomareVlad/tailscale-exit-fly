@@ -1,4 +1,4 @@
-app = 'tailscale-exit-fly'
+app = 'tailscale-exit'
 primary_region = 'fra'
 swap_size_mb = 256
 
