@@ -1,3 +1,4 @@
+app = 'ts-exit-fly'
 primary_region = 'fra'
 swap_size_mb = 256
 
